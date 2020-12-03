@@ -16,9 +16,9 @@ public class Q1 extends Blockers
     {
         getImage().scale(getImage().getWidth()/5, getImage().getHeight()/5);
     }
-    
+
     public void act() 
     {
-        
+        Q1();
     }    
 }

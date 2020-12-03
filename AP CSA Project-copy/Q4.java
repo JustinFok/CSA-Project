@@ -18,6 +18,6 @@ public class Q4 extends Blockers
     }
     public void act() 
     {
-        // Add your action code here.
+        Q4();
     }    
 }

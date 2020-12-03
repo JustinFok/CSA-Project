@@ -19,6 +19,6 @@ public class Q2 extends Blockers
     
     public void act() 
     {
-        // Add your action code here.
+        Q2();
     }    
 }
